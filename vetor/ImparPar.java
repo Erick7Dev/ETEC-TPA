@@ -1,4 +1,3 @@
-package vetor;
 import java.util.Scanner;
 public class ImparPar {
 	public static void main(String[] args) {
