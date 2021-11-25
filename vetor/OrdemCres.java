@@ -3,7 +3,7 @@ public class OrdemCres {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int a[], b[], i, mi, ii, x;
-		final int TAM = 5;
+		final int TAM = 10;
 		a = new int [TAM];
 		b = new int [TAM];
 		for(i=0;i<TAM;i++) {
