@@ -1,4 +1,3 @@
-package vetor;
 import java.util.Scanner;
 public class OrdemCres {
 	public static void main(String[] args) {
