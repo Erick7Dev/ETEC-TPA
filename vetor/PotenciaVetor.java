@@ -1,4 +1,3 @@
-package vetor;
 public class PotenciaVetor {
 	public static void main(String[] args) {
 		int a[], i=0, ii, res;
